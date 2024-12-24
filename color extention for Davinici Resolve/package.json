@@ -1,0 +1,9 @@
+{
+  "name": "CoCo X-Session",
+  "version": "1.0.0",
+  "description": "CoCo",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  }
+}

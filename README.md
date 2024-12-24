@@ -1,1 +1,1 @@
-this is a readme file
+this is a color extention fro davinici resolve

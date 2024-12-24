@@ -1,0 +1,9 @@
+Workflow Integration Plugins root directory
+-------------------------------------------
+User should place their Workflow Integration Plugin under the following directory:
+    Mac OS X:
+        "/Library/Application Support/Blackmagic Design/DaVinci Resolve/Workflow Integration Plugins/"
+
+    Windows:
+        "%PROGRAMDATA%\Blackmagic Design\DaVinci Resolve\Support\Workflow Integration Plugins\"
+
